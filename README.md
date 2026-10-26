@@ -110,3 +110,4 @@ The ~7.8% of rows carrying a placeholder `01-01` release date were left as-is ra
 Built by **John Martin S. Villena**, BS Information Technology graduate (Business Analytics) from Bulacan State University.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/jhnmrtnvlln/)
+💻 [GitHub](https://github.com/jhnmrtnvlln)
